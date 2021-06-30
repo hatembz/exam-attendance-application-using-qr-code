@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133816512599",
+    "project_id": "gestiondesurvuillance",
+    "storage_bucket": "gestiondesurvuillance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133816512599:android:dc56206439673db8007312",
+        "android_client_info": {
+          "package_name": "com.example.memoire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133816512599-n79t8esip31imbj28tqnt1f9on5kfrnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAEzZsTOasQnnEKJD-1SlchAbA24hEjg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133816512599-n79t8esip31imbj28tqnt1f9on5kfrnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
